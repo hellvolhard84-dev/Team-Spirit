@@ -7,8 +7,8 @@ Hackforge
 Live demo like for the project: Smart Irrigation Planner--->
 
 Secret KEY: 
-          Name: SECRETE
-          Value: c366c6fff16d622182c51f0d2eb88085
+Name: SECRETE
+Value: c366c6fff16d622182c51f0d2eb88085
 
 The dataset is also included in the repo, upload it in the file section.
 
